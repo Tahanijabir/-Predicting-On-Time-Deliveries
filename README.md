@@ -1,4 +1,3 @@
-# -Predicting-On-Time-Deliveries
 
 # Random Forest Classifier for Predicting On-Time Deliveries
 
