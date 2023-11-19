@@ -1,12 +1,9 @@
 # -Predicting-On-Time-Deliveries
-Certainly! Here's a README description for your GitHub repository:
-
----
 
 # Random Forest Classifier for Predicting On-Time Deliveries
 
 ## Overview
-This Python script demonstrates the use of a Random Forest Classifier to predict on-time deliveries based on a provided dataset. The model evaluates the importance of various features and visualizes them through a bar plot.
+This Python script demonstrates the use of a Random Forest Classifier to predict on-time deliveries based on the ["E-Commerce Shipping Data"](https://www.kaggle.com/datasets/prachi13/customer-analytics) dataset from Kaggle. The model evaluates the importance of various features and visualizes them through a bar plot.
 
 ## Dependencies
 - pandas
@@ -35,5 +32,7 @@ This Python script demonstrates the use of a Random Forest Classifier to predict
 - Adjust the script according to your specific dataset characteristics.
 
 Feel free to customize and extend the script based on your analysis goals. Happy coding!
+
+---
 
 ---
