@@ -30,7 +30,6 @@ This Python script demonstrates the use of a Random Forest Classifier to predict
 - Ensure your dataset is appropriately formatted and includes the necessary columns ('ID', 'Warehouse_block', 'Mode_of_Shipment', 'Customer_care_calls', 'Customer_rating', 'Cost_of_the_Product', 'Prior_purchases', 'Product_importance', 'Gender', 'Discount_offered', 'Weight_in_gms', 'Reached.on.Time_Y.N').
 - Adjust the script according to your specific dataset characteristics.
 
-Feel free to customize and extend the script based on your analysis goals. Happy coding!
 
 ---
 
